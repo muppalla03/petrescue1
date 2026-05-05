@@ -1,0 +1,4 @@
+Django==4.2.28
+django-allauth==65.14.3
+Pillow==12.1.0
+requests==2.32.5
