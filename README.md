@@ -1,9 +1,5 @@
 # 🐾 Pet Rescue Web Application (Django)
 
-🔗 **Live Demo:** Coming Soon (Deployment in progress)
-
----
-
 A full-stack web application built using Django to manage pet rescue operations, user interactions, and adoption workflows. The system enables users to browse pets, manage accounts, and communicate through integrated features.
 
 ---
